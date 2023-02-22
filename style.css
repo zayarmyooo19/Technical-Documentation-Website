@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+.nav-main{
+  border-right: 3px solid #99A2A2 ;
+}
+.nav-main>h2{
+  padding: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #4D4E53;
+}
+.nav-list>li{
+  padding: 10px 20px;
+  font-size: 17px;
+  border-bottom: 1px solid #4D4E53;
+}
