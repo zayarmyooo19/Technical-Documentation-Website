@@ -5,9 +5,11 @@
 }
 .nav-main{
   border-right: 3px solid #99A2A2 ;
+  height: 100%;
 }
 .nav-main>h2{
   padding: 10px;
+  margin: 0;
   padding-bottom: 20px;
   border-bottom: 1px solid #4D4E53;
 }
@@ -15,4 +17,5 @@
   padding: 10px 20px;
   font-size: 17px;
   border-bottom: 1px solid #4D4E53;
+  cursor: pointer;
 }
